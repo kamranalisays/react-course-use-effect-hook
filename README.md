@@ -7,7 +7,7 @@
    
       1.3 - The initial code of the project is created by the following command :
 
-            npx create-react-app use-state-hook 
+            npx create-react-app use-effect-hook-app 
 
 
 2) Tools & Technologies
@@ -26,13 +26,13 @@
 
     2.2 - After cloning the repo you have to install node modules.
 
-         Step-1 Open the terminal and change the directory to use-state-hook
+         Step-1 Open the terminal and change the directory to use-effect-hook-app 
 
          Step-2 Install the node modules by the following command
 
                  npm install
 
-               For Example :   E:\temporary\use-state-hook> npm install
+               For Example :   E:\temporary\use-effect-hook-app> npm install
 
 
 
@@ -44,7 +44,7 @@
 
          npm start
 
-         For Example :   E:\temporary\use-state-hook>npm start
+         For Example :   E:\temporary\use-effect-hook-app >npm start
    
 
 5) Tech Stack Version
